@@ -1,0 +1,7 @@
+{ "public": {
+   "imARidiculousHumanBeing": "butAtLeastImClean" },
+    "private": { "hackTheGibson": "keyboardCoWbOyS" }, 
+    "imStillServerOnly": "soDontPanic" }
+
+
+    //mongodb://ziyad2010:<password>@cluster0-shard-00-00-mwlvh.mongodb.net:27017,cluster0-shard-00-01-mwlvh.mongodb.net:27017,cluster0-shard-00-02-mwlvh.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority
